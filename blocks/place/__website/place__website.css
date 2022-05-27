@@ -1,0 +1,9 @@
+.place__website {
+    max-width: 456px;
+    align-self: end;
+}
+@media (min-width: 320px) and (max-width: 425px) {
+    .place__website {
+      margin: 0 16px;
+    }
+}
