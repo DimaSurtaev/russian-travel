@@ -6,19 +6,16 @@
     transition: opacity .3s linear ;
     list-style-type: none;
     cursor: default;
+    color: #ffffff;
+    margin-right: 18px;
 }
 .header__lang-link:hover {
-    opacity: 0.5;
     box-shadow: 0 1px 0 0;
-}
-.header__lang-link:nth-child(1) {
-    box-shadow: 0 1px 0 0;
-    margin-right: 18px;
+    cursor: pointer; 
 }
 @media (min-width: 320px) and (max-width: 425px) {
     .header__lang-link {
         font-size: 18px;
         line-height: 20px;
-        font-weight: 400;
     }
 }

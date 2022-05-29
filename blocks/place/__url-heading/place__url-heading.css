@@ -3,6 +3,7 @@
     font-weight: 400;
     line-height: 12px;
     color: #aaaaaa;
-    letter-spacing: 0.2em;
+    letter-spacing: 2px;
     margin: 0 0 12px;
+    text-transform: uppercase;
 }

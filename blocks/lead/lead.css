@@ -8,13 +8,8 @@
         margin: 0 auto;
     }
 }
-@media (min-width: 426px) and (max-width: 768px) {
+@media (min-width: 320px) and (max-width: 768px) {
     .lead {
         margin: 0 auto;
     }
-}
-@media (min-width: 320px) and (max-width: 425px) {
-    .lead {
-        margin: 0 auto;
-    }    
 }

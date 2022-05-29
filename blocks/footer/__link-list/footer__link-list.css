@@ -1,8 +1,13 @@
 .footer__link-list {
-    max-width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    margin: 0;
+    padding: 0;
+    list-style: none;
 }
 @media (min-width: 320px) and (max-width: 425px) {
-    .footer__link-list {
+    .footer__link-list  {
         display: flex;
         align-self: stretch;
         flex-direction: column;

@@ -4,9 +4,16 @@
     display: flex;
     justify-content: space-between;
 }
-@media (min-width: 768px) and (max-width: 1024px) {
+
+@media (min-width: 769px) and (max-width: 1024px) {
     .footer {
-        margin:88px 24px 24px 24px;
+        margin:88px 48px 24px;
+
+    }
+}
+@media (min-width: 426px) and (max-width: 768px) {
+    .footer {
+        margin:88px 24px 24px;
 
     }
 }
