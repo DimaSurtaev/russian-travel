@@ -5,8 +5,3 @@
     max-width: 690px;
     margin: 0 0 34px;   
 }
-@media (min-width: 768px) and (max-width: 1024px) {
-    .intro__text {
-        max-width: 100%; 
-    }
-}

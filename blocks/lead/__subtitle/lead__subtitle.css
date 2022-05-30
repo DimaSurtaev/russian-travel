@@ -8,18 +8,14 @@
 }
 @media (min-width: 426px) and (max-width: 768px) {
     .lead__subtitle {
-        font-size: 4vw;
-        line-height: 4.7vw;
-        font-weight: 400;
-        text-align: center;
         margin: 32px auto 56px;
     }
 }
 @media (min-width: 320px) and (max-width: 425px) {
     .lead__subtitle {
         max-width: 288px;
-        font-size: 5vw;
-        line-height: 6vw;
+        font-size: 16px;
+        line-height: 20px;
         margin: 16px auto 40px;
     }    
 }
