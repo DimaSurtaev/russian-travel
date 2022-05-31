@@ -4,3 +4,8 @@
     list-style-type: none;
     padding: 0;
 }
+@media (min-width: 320px) and (max-width: 425px) {
+    .header__list-link {
+        margin: 14px 0 0 auto;
+    }
+}

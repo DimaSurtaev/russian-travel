@@ -8,7 +8,6 @@
 }
 @media (min-width: 320px) and (max-width: 425px) {
     .footer__link-list  {
-        display: flex;
         align-self: stretch;
         flex-direction: column;
         align-content: flex-start;
